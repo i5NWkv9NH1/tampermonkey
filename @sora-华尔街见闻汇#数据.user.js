@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         @sora/华尔街见闻汇#数据
-// @namespace    https://i5nwkv9nh1.github.io/
+// @namespace    http://sorachandesu.moe
 // @icon         https://www.google.com/s2/favicons?domain=wallstreetcn.com
 // @version      1.0
 // @description  一键提取实时数据

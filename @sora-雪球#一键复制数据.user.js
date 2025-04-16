@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         @sora/雪球#个股数据
+// @name         @sora/雪球#一键复制数据
 // @version      1.4
-// @namespace    https://i5nwkv9nh1.github.io/
+// @namespace    i5NWkv9NH1.github.io
 // @icon         https://www.google.com/s2/favicons?domain=xueqiu.com
 // @description  智能适配雪球全品种数据抓取
 // @match        https://xueqiu.com/S/*

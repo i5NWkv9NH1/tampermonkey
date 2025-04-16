@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         @sora/富途#热力图数据
+// @name         @sora/富途热力图数据提取器
 // @namespace    https://i5nwkv9nh1.github.io/
 // @version      1.4
 // @description  一键提取富途热力图板块和个股数据，优化数据格式化

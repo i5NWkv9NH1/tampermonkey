@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         @sora/有色金属网#期货品种数据
-// @namespace    https://i5nwkv9nh1.github.io/
+// @namespace    i5NWkv9NH1.github.io
 // @icon         https://www.google.com/s2/favicons?domain=hq.smm.cn
 // @version      4.0.1
 // @description  完整捕获所有可见数据

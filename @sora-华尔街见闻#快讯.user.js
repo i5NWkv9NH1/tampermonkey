@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         @sora/华尔街见闻#快讯
-// @namespace    https://i5nwkv9nh1.github.io/
+// @namespace    i5NWkv9NH1.github.io
 // @icon         https://www.google.com/s2/favicons?domain=wallstreetcn.com
 // @version      1.3
 // @description  极简模式一键提取实时消息

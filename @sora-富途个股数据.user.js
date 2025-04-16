@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         @sora/富途#个股数据
+// @name         @sora/富途个股数据
 // @namespace    https://i5nwkv9nh1.github.io/
 // @version      0.1
 // @description  一键复制富途个股页面数据

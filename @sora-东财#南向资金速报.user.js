@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         @sora/东财#南向资金速报
-// @namespace    https://i5nwkv9nh1.github.io/
+// @namespace    i5NWkv9NH1.github.io
 // @icon         https://www.google.com/s2/favicons?domain=data.eastmoney.com
 // @version      1.3
 // @description  一键获取实时+历史南向资金数据

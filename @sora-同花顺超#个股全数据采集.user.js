@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         @sora/同花顺超#全数据采集
-// @namespace    https://i5nwkv9nh1.github.io/
+// @name         @sora/同花顺超#个股全数据采集
+// @namespace    i5NWkv9NH1.github.io
 // @icon         https://www.google.com/s2/favicons?domain=10jqka.com.cn
 // @version      3.0
 // @description  完美支持所有技术指标+完整资金数据

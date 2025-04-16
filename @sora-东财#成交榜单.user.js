@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         @sora/东财#成交榜单
 // @version      1.0
-// @namespace    https://i5nwkv9nh1.github.io/
+// @namespace    i5NWkv9NH1.github.io
 // @icon         https://www.google.com/s2/favicons?domain=data.eastmoney.com
 // @description  一键复制沪深港通四个交易榜单数据
 // @match        https://data.eastmoney.com/hsgtV2/hsgtDetail/sdcjg.html

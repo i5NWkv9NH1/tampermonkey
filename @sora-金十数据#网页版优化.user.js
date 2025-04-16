@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         @sora/金十数据#网页版优化
-// @namespace    https://i5nwkv9nh1.github.io/
+// @namespace    i5NWkv9NH1.github.io
 // @icon         https://www.google.com/s2/favicons?domain=www.jin10.com
 // @version      1.5
 // @description  彻底移除所有广告，优化网页。

@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         @sora/富途期权#全数据
+// @name         @sora/富途期权全数据
 // @namespace    https://i5nwkv9nh1.github.io/
 // @version      2.1
 // @description  全字段期权数据采集工具
